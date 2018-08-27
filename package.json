@@ -1,0 +1,24 @@
+{
+  "name": "hw_pubsub_wordcounter_start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmbruce1986/w7_d1_hw_pubsub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmbruce1986/w7_d1_hw_pubsub/issues"
+  },
+  "homepage": "https://github.com/kmbruce1986/w7_d1_hw_pubsub#readme",
+  "dependencies": {
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
