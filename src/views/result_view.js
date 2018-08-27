@@ -12,7 +12,7 @@ ResultView.prototype.bindEvents = function () {
   })
 }
 
-ResultView.prototype.updateView = function () {
+ResultView.prototype.updateView = function (result) {
   const ResultElement = document.querySelector('#result');
   resultElement.textContent = `You entered ${result} words.`
 };
